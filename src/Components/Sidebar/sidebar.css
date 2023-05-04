@@ -1,0 +1,85 @@
+.sidebar{
+    width: 14rem;
+    background-color: #4e73df;
+   
+}
+.sidebar ul{
+    list-style-type: none; 
+    color: white; 
+    text-align: left;
+    padding-left: 1rem;
+    margin-left: 0px;
+}
+.brandlogo{
+    margin-top: 1rem;
+}
+.sidebar .brandlogo div{
+    display: inline-block;
+}
+
+.sidebar .admintxt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 1rem;
+} 
+.sidebar div{
+    background-color: transparent;
+}
+.accordion-button .collapsed{
+    border: none;
+    background-color: transparent;
+}
+.sidebar-dash{
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: white;
+}
+.sidebar-heading{
+    font-weight: 800;
+    font-size: 0.65rem;
+    color: #FFFFFF66
+}
+.listitem .item{
+    font-size: 0.85rem;  
+
+}
+.listitem span{
+    padding-left: 0.5rem;
+}
+
+.listitem section{
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    margin-right: 0.65rem;
+    margin-left: none;
+    margin-top: 0.5rem;
+}
+.listitem section> .item{
+    white-space: nowrap;
+    padding: 0.5rem 1.5rem;
+    color: black;
+}
+.listitem section> .sidebar-heading{
+    font-weight: 800;
+    font-size: 0.65rem;
+    color: #b7b9cc;
+    white-space: nowrap;
+    padding: 0.5rem 1.5rem;
+}
+
+.button-skin{
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding: none;
+}
+.icon-wrap{
+    margin-left: calc(100% - 60%);
+}
+.round-btn{
+    border: none;
+    background-color: #b7b9cc;
+    border-radius: 50%; 
+    color: #858796;
+    
+}
